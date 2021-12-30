@@ -2,7 +2,7 @@
 (1) 구현언어
   -PHP, MYSQL, HTML5, CSS (BootStrap)
 (2) 사용서버환경
-  - XAMPP
+  -XAMPP
 
 # 데이터베이스
 ![image](https://user-images.githubusercontent.com/89179991/147737256-4a554deb-d045-49a9-aaf1-ec336d3fea59.png)
